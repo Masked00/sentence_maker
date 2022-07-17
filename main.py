@@ -15,3 +15,5 @@ while True:
         break
     else:
         restults.append(sentence_maker(u_input))
+
+print(" ".join(restults))
